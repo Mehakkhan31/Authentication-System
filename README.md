@@ -224,12 +224,4 @@ Mehak Khan
 - Use environment variables for all sensitive configuration
 - Test email functionality before deploying to production
 
-## Future Enhancements
 
-- Add refresh token mechanism
-- Implement Google OAuth login
-- Add two-factor authentication (2FA)
-- Add password strength validation
-- Implement rate limiting
-- Add email resend functionality
-- Add session management
