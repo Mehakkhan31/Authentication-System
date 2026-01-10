@@ -210,9 +210,7 @@ Content-Type: application/json
 
 
 
-## Author
 
-Mehak Khan
 
 ## Notes
 
