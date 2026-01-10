@@ -208,9 +208,7 @@ Content-Type: application/json
 - **cookie-parser** - Parse cookies
 - **dotenv** - Environment variables
 
-## License
 
-ISC
 
 ## Author
 
