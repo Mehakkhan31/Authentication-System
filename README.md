@@ -208,12 +208,7 @@ Content-Type: application/json
 - **cookie-parser** - Parse cookies
 - **dotenv** - Environment variables
 
-
-
-
-
 ## Notes
-
 - This is a boilerplate for MERN stack applications
 - Suitable for use as a starting point for larger authentication-based projects
 - Consider implementing rate limiting for production
